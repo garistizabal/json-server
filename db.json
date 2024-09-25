@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "adef",
+      "username": "user1",
+      "email": "email@gmail.com",
+      "password": "GCACc!ZmPP7*sB",
+      "isAdmin": false
+    },
+    {
+      "id": "7d6b",
+      "username": "user2",
+      "email": "email2@gmail.com",
+      "password": "aEHNs!LaE6gbe3",
+      "isAdmin": true
+    }
+  ],
+  "products": [
+    {
+      "id": "4ffa",
+      "name": "Product 1",
+      "price": 2000,
+      "description": "Description 1",
+      "stock": 15
+    },
+    {
+      "id": "71bf",
+      "name": "Product 2",
+      "price": 5000,
+      "description": "Description 2",
+      "stock": 25
+    },
+    {
+      "id": "ab01",
+      "name": "Product 3",
+      "price": 10000,
+      "description": "Description 3",
+      "stock": 20
+    },
+    {
+      "id": "3d92",
+      "name": "Product 4",
+      "price": 3500,
+      "description": "Description 4",
+      "stock": 30
+    },
+    {
+      "id": "65fb",
+      "name": "Product 5",
+      "price": 7500,
+      "description": "Description 5",
+      "stock": 10
+    }
+  ]
+}
